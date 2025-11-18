@@ -2,6 +2,12 @@
 Changelog
 =========
 
+5.1.8 (2025-04-07)
+==================
+
+* add: declare compatibility with Django 5.1 and 5.2 following removal of deprecated
+  helpers such as ``get_storage_class`` and ``force_text``.
+
 5.1.7 (2025-03-21)
 ==================
 
